@@ -1,0 +1,15 @@
+[
+    "if",
+    "else",
+    "fi",
+    "then",
+    "while",
+    "do",
+    "od",
+    "print",
+    "return",
+    "def",
+    "fed",
+    "int",
+    "double"
+]
